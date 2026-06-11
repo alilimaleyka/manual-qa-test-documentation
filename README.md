@@ -1,10 +1,10 @@
-# AcademyBugs saytı Manual Testing Project
+# AcademyBugs Manual Testing Project
 
-Bu repo AcademyBugs saytının manual test edilməsi üçün yaradılıb.
+## Layihə haqqında
 
-## Project haqqında
+Bu repository AcademyBugs saytının manual test edilməsi və test nəticələrinin sənədləşdirilməsi üçün hazırlanmışdır.
 
-Bu layihədə AcademyBugs saytında tapılan bug-lar və yazılan test case-lər sənədləşdirilir.
+Layihədə e-commerce tipli test mühiti üzərində test case-lər, bug reportlar və checklist hazırlanmışdır.
 
 ## Test olunan sayt
 
@@ -12,18 +12,34 @@ https://academybugs.com/
 
 ## Layihənin məqsədi
 
-Bu project-in məqsədi manual QA bacarıqlarını praktika etmək və Git/GitHub üzərində QA sənədlərini saxlamağı öyrənməkdir.
+Bu layihənin məqsədi manual QA bacarıqlarını praktik şəkildə tətbiq etmək, test case və bug report yazma bacarığını inkişaf etdirmək və QA sənədlərini GitHub üzərində strukturlaşdırılmış formada saxlamaqdır.
 
-## Repo daxilində olan fayllar
+## Test olunan sahələr
+
+- Homepage
+- Product Detail Page
+- Product Image
+- Product Description
+- Add to Cart
+- Search
+- Billing Address
+- Shipping Address
+
+## Repository strukturu
 
 - `test-cases.md` — AcademyBugs saytı üçün test case-lər
-- `bug-reports.md` — AcademyBugs saytında tapılan bug reportlar
+- `bug-reports.md` — tapılan bug-ların sənədləşdirilməsi
 - `checklist.md` — manual testing checklist
-- `.gitignore` — Git-in izləməməli olduğu fayllar
+- `.gitignore` — Git tərəfindən izlənməməli fayllar
 
 ## İstifadə olunan QA anlayışları
 
 - Manual Testing
+- Functional Testing
+- UI Testing
+- Content Testing
+- Positive Testing
+- Negative Testing
 - Test Case
 - Bug Report
 - Severity
@@ -39,6 +55,12 @@ Bu project-in məqsədi manual QA bacarıqlarını praktika etmək və Git/GitHu
 - Commit
 - Branch
 - Push
+- Pull Request
+- Merge
 - Status
 - Log
-- .gitignore
+- `.gitignore`
+
+## Qeyd
+
+Bu repo öyrənmə və portfolio məqsədi ilə hazırlanmışdır.
