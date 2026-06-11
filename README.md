@@ -1,4 +1,4 @@
-# AcademyBugs Manual Testing Project
+# AcademyBugs saytı Manual Testing Project
 
 Bu repo AcademyBugs saytının manual test edilməsi üçün yaradılıb.
 

@@ -90,3 +90,19 @@
 
 * Məhsul səbətə əlavə olunmalıdır.
 * Cart icon və ya cart page yenilənməlidir.
+
+
+
+---
+
+## TC-017: Search funksiyasının yoxlanılması
+
+**Precondition:**
+- AcademyBugs saytı açıqdır.
+
+**Steps:**
+1. Search input sahəsinə məhsul adı yaz.
+2. Search nəticələrinin göstərilməsini yoxla.
+
+**Expected Result:**
+- Search nəticələri istifadəçinin yazdığı açar sözə uyğun göstərilməlidir.
